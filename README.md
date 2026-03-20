@@ -52,6 +52,8 @@ Full-stack web application for managing passenger check-in and flight operations
 ### 🌍 HuntWays Travel (Next.js)
 Modern travel planning application with integrated backend features.
 
+**Link:** https://huntwaystravel.pl/
+
 - Multi-step travel form  
 - Newsletter system  
 - Email sending via SMTP  
