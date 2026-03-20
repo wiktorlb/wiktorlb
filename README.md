@@ -2,7 +2,7 @@
 
 💻 Full-stack developer focused on building modern web and mobile applications.
 
-I mainly work with **React, Spring Boot and MongoDB**, but I also have experience with **Next.js and Flutter** for creating both web and mobile solutions.
+I mainly work with **React, Next, Spring Boot and MongoDB**, but I also have experience with **Next.js and Flutter** for creating both web and mobile solutions.
 
 🚀 **Live Projects**
 - 🌍 HuntWays Travel – https://huntwaystravel.pl/
